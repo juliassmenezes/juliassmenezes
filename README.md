@@ -1,6 +1,6 @@
 <div align="center">
   
-  <h1>Olá 👋 Eu sou a Julia!</h1>
+  <h1>Hi 👋 I'm Julia!</h1>
   
   <img src="https://tenor.com/pt-BR/view/typing-hello-kitty-tap-working-gif-15021793.gif" width="180px" alt="Gif Hello KittyF">
 
